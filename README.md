@@ -29,10 +29,22 @@ We upload the `Adult` dataset as an example, we are not the owner of this datase
 
 To cite this paper, use the following bibtex for now:
 ```
-@article{zhao2022fct,
-  title={FCT-GAN: Enhancing Table Synthesis via Fourier Transform},
-  author={Zhao, Zilong and Birke, Robert and Chen, Lydia Y},
-  journal={arXiv preprint arXiv:2210.06239},
-  year={2022}
+@inproceedings{10.1145/3583780.3615202,
+author = {Zhao, Zilong and Birke, Robert and Chen, Lydia Y.},
+title = {FCT-GAN: Enhancing Global Correlation of Table Synthesis via Fourier Transform},
+year = {2023},
+isbn = {9798400701245},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3583780.3615202},
+doi = {10.1145/3583780.3615202},
+booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+pages = {4450–4454},
+numpages = {5},
+keywords = {tabular data, gan, fourier transform},
+location = {Birmingham, United Kingdom},
+series = {CIKM '23}
 }
+
+
 ```
